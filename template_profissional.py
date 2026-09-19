@@ -8,5 +8,5 @@
 # ================================================
 
 print('=' * 30)
-print('NOME DO PROGRAMA'.center(30))
+print('NOME DO PROGRAMA'.upper().center(30))
 print('=' * 30)
