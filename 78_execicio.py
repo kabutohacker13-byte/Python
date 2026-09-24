@@ -3,7 +3,7 @@
 # AUTOR: Antonio Claudio
 # EMAIL: kabutohacker13@gmail.com
 # DATA: 23/09/2026
-# VERSÃO: 1.0
+# VERSÃO: 1.0 -> 2.0
 # DESCRIÇÃO: identifica o maior e menor numero de uma lista
 # ================================================
 
