@@ -1,11 +1,4 @@
-import numpy as np
-
-matriz = np.zeros((3, 3), dtype=int)
-print(matriz)
-
-
-
-'''valor = []
+valor = []
 par = []
 impar = []
 
@@ -20,4 +13,4 @@ for i in range(0, 7):
        
 print(f"Todos os valores: {sorted(valor)}")
 print(f"Valores pares: {sorted(par)}")
-print(f"Valores ímpares: {sorted(impar)}")'''
+print(f"Valores ímpares: {sorted(impar)}")
